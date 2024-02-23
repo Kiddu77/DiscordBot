@@ -6,8 +6,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.messages = True
 
-token = "MTE2NzUxMjk4OTAyOTY0MjM1MA.Gpmkrk.yVEbJXmpcWS3Ztl5pPR7FitdL3_ZlnVPOFYQz4"
-Gkey = "AIzaSyAQvbKwm8_ehobg5V0vxnFuFHIR5YIPv2g"
+token = "---"
+Gkey = "--"
 
 bot = commands.Bot(command_prefix='/', intents=intents)
 
